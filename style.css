@@ -1,0 +1,49 @@
+body {
+  text-align: center;
+  background-color: black;
+  font-family: Veranda;
+  font-weight: normal;
+}
+
+h1 {
+  color: white;
+  font-size: 50px;
+}
+
+h2 {
+  color: white;
+  font-size: 300;
+  font-weight: 42px;
+}
+
+p {
+  color: gray;
+  font-size: 21px;
+}
+
+.links {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+video {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#trademark {
+  text-align: right;
+  color: gray;
+}
+
+#phone-illustration {
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
